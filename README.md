@@ -4,8 +4,7 @@
 <h2>🛡️ Information Security Projects</h2>
  
 - [Creating Honeynet](https://github.com/hoangannnhhh/SIEM-reports)
-
-- [Microsoft Sentinel]
+- [SIEM Building]
 
 <h2>📜 Certifications:</h2>
  
