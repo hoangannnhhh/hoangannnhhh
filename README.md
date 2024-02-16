@@ -14,7 +14,7 @@
   
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
-<a href="https://twitter.com/hoangannnhhh"><img align="left" alt="yourname | Twitter" width="45px" src="https://vectorified.com/images/twitter-icon-black-34.jpg" /></a>
+<a href="https://twitter.com/hoangannnhhh"><img align="left" alt="anh" | Twitter" width="45px" src="https://vectorified.com/images/twitter-icon-black-34.jpg" /></a>
 <a href="https://www.linkedin.com/in/hoangannnhhh" style="color: #0077B5; border: 1px solid #0077B5;">
-  <img align="left" alt="yourname | LinkedIn" width="45px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
+  <img align="left" alt="anh" | LinkedIn" width="45px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 
